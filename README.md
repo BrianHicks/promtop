@@ -2,6 +2,8 @@
 
 a quick and dirty `top` for prometheus services
 
+![](promtop.png)
+
 ## Usage
 
     promtop.sh localhost/metrics your_metric_or_prefix
